@@ -1,4 +1,4 @@
-[! [MasterHead]https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlhejd1Z3BrYjdxcHZ4emlqMXU2YXNha2Y5a2R4aWhpdGF6aWU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif 
+[! [MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlhejd1Z3BrYjdxcHZ4emlqMXU2YXNha2Y5a2R4aWhpdGF6aWU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPj5oRtJzQGxwzuCKV/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sedat DİKBAŞ</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
